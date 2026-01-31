@@ -21,7 +21,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 - Collaborated with cross-functional teams on data-driven solutions
 
 ### 📚 Previous Experience
-**Data Analyst** @ S&P CAPITAL IQ (INDIA) PRIVATE LIMITED - General Fundamentals (2015-2022)
+**Data Analyst** @ S&P CAPITAL IQ (INDIA) PRIVATE LIMITED  (2015-2022)
 - Fundamental analysis and financial research
 - Balance sheet and cash flow analysis
 - Securities exchange filings processing (10-K, 10-Q, 20-F, 8-K)
