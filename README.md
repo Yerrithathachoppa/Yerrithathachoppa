@@ -15,7 +15,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 - 📞 Phone: **+91-8099696443**
 
 ### 🎯 Current Role
-**Lead Data Analyst** @ S Global (2022 - Present)
+**Lead Data Analyst** @ SP Global (2022 - Present)
 - Developed and maintained Python scripts for financial data validation
 - Automated financial data checks and comparisons
 - Collaborated with cross-functional teams on data-driven solutions
