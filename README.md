@@ -5,7 +5,7 @@
 **Profile views:** ![Profile views](https://komarev.com/ghpvc/?username=Yerrithathachoppa&color=blue)
 
 ### 👨‍💼 Professional Summary
-Dynamic and results-driven **Lead Data Analyst** with extensive expertise in developing and maintaining robust **Python** scripts for financial data validation and analysis. Currently leveraging expertise at **S&P Global** in the SNL Industry Fundamentals - Asian Bank Department, where I develop and maintain Python scripts for financial data validation and analysis. Proficient in **Python**, **Pandas**, and **SQL** for efficient data manipulation, analysis, and reporting. Skilled in utilizing **JSON** for data handling and implementing error handling mechanisms with **try-except blocks** to manage exceptions and ensure smooth execution. Proven track record in automating data processes, enhancing data accuracy, and collaborating with cross-functional teams to drive product improvement and customer satisfaction.
+Dynamic and results-driven **Lead Data Analyst** with extensive expertise in developing and maintaining robust **Python** scripts for financial data validation and analysis. Currently leveraging expertise at **S&P Global** , where I develop and maintain Python scripts for financial data validation and analysis. Proficient in **Python**, **Pandas**, and **SQL** for efficient data manipulation, analysis, and reporting. Skilled in utilizing **JSON** for data handling and implementing error handling mechanisms with **try-except blocks** to manage exceptions and ensure smooth execution. Proven track record in automating data processes, enhancing data accuracy, and collaborating with cross-functional teams to drive product improvement and customer satisfaction.
 ### 📊 What I Do
 - 📊 Specialized in **Data Analytics**, **Business Intelligence**, and **Python Programming**
 - 🔧 Skilled in **Python**, **SQL**, **Power BI**, **Pandas**, **Azure**, **Kafka** and **Advanced Excel**
@@ -20,8 +20,8 @@ Dynamic and results-driven **Lead Data Analyst** with extensive expertise in dev
 - Automated financial data checks and comparisons
 - Collaborated with cross-functional teams on data-driven solutions
 - - Utilized **Pandas** and **Python** for efficient data manipulation and analysis using **DataFrames**
-  - - Implemented **SQL** queries for database operations and data extraction from financial data sources
-    - - Implemented robust error handling with **try-except blocks** and **JSON** data parsing for seamless exception management
+- - Implemented **SQL** queries for database operations and data extraction from financial data sources
+- - Implemented robust error handling with **try-except blocks** and **JSON** data parsing for seamless exception management
 
 ### 📚 Previous Experience
 **Data Analyst** @ S&P CAPITAL IQ (INDIA) PRIVATE LIMITED  (2015-2022)
@@ -41,7 +41,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive expertise in dev
 All of my projects are available in my repositories:
 - **[AtliQ-Hospitality-Analysis](https://github.com/Yerrithathachoppa/AtliQ-Hospitality-Analysis)** - Data analysis project for the hospitality domain using Python and Pandas
 - **[Expenses-Tracking-System](https://github.com/Yerrithathachoppa/Expenses-Tracking-System)** - Python-based expense tracking application
-- - **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
+- **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
 
 ### 🔗 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithatha-choppa/)
