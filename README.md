@@ -35,6 +35,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 All of my projects are available in my repositories:
 - **[AtliQ-Hospitality-Analysis](https://github.com/Yerrithathachoppa/AtliQ-Hospitality-Analysis)** - Data analysis project for the hospitality domain using Python and Pandas
 - **[Expenses-Tracking-System](https://github.com/Yerrithathachoppa/Expenses-Tracking-System)** - Python-based expense tracking application
+- - **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
 
 ### 🔗 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithathachoppa)
