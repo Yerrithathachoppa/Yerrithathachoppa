@@ -5,7 +5,7 @@
 **Profile views:** ![Profile views](https://komarev.com/ghpvc/?username=Yerrithathachoppa&color=blue)
 
 ### 👨‍💼 Professional Summary
-Dynamic and results-driven **Lead Data Analyst** with extensive experience in financial data analysis and reporting. Currently leveraging expertise at **S Global** in the SNL Industry Fundamentals - Asian Bank Department. Proven track record in automating data processes, enhancing data accuracy, and collaborating with cross-functional teams.
+Dynamic and results-driven **Lead Data Analyst** with extensive experience in financial data analysis and reporting. Currently leveraging expertise at **S&P Global**. Proven track record in automating data processes, enhancing data accuracy, and collaborating with cross-functional teams.
 
 ### 📊 What I Do
 - 📊 Specialized in **Data Analytics**, **Business Intelligence**, and **Python Programming**
