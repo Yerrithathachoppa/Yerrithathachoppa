@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yerrithathachoppa
+# Hi 👋, I'm Yerrithatha Choppa
 
 ## A passionate Lead Data Analyst from India.
 
