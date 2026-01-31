@@ -10,6 +10,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 ### 📊 What I Do
 - 📊 Specialized in **Data Analytics**, **Business Intelligence**, and **Python Programming**
 - 🔧 Skilled in **Python**, **SQL**, **Power BI**, **Pandas**, **Azure** and **Advanced Excel**
+- - 📈 Knowledgeable in **Statistics** and **Math** for data science applications
 - 🤝 Looking to collaborate on **Data Analysis** and **Business Intelligence** projects
 - 📧 How to reach me: **ychoppa123@gmail.com**
 - 📞 Phone: **+91-8099696443**
