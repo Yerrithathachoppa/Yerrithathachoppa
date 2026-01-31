@@ -5,7 +5,7 @@
 **Profile views:** ![Profile views](https://komarev.com/ghpvc/?username=Yerrithathachoppa&color=blue)
 
 - 📊 I'm interested in **Data Analytics**, **Business Intelligence**, and **Python Programming**
-- 🔧 I'm skilled in **MySQL**, **Power BI**, **Tableau**, **Python** and **Advanced Excel**
+- 🔧 I'm skilled in **SQL**, **Power BI**, **Python** and **Advanced Excel**
 - 🤝 I'm looking to collaborate on a **full-time Data Analyst job**
 - 📧 How to reach me: **ychoppa123@gmail.com**
 - All of my Projects are available at **[Link](#)**
