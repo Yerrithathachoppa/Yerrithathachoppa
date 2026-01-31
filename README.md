@@ -38,7 +38,7 @@ All of my projects are available in my repositories:
 - - **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
 
 ### 🔗 Connect with me 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithathachoppa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithatha-choppa/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Yerrithathachoppa)
 [![Email](https://img.shields.io/badge/Email-ychoppa123@gmail.com-red?logo=gmail&logoColor=white)](mailto:ychoppa123@gmail.com)
 
