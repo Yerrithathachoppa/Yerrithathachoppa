@@ -26,10 +26,10 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 - Balance sheet and cash flow analysis
 - Securities exchange filings processing (10-K, 10-Q, 20-F, 8-K)
 
-### 🏆 Certifications
+### 🏆 29
+
 ✅ **PCEP** - Certified Entry-Level Python Programmer (Python Institute)   | [Verify](https://verify.openedg.org/?id=XxAz.FsXc.L0Xp)
 ✅ **PCAP** - Certified Associate in Python Programming (Python Institute)   | [Verify](https://verify.openedg.org/?id=RsxH.uT9n.2tWu)
-✅ **SQL Training** - Basic & Intermediate (SP Global)
 ✅ **Math and Statistics For AI, Data Science** (codebasics) | [Certificate](https://codebasics.io/certificate/CB-63-570553)
 ✅ **SQL for Data Science** (codebasics) | [Certificate](https://codebasics.io/certificate/CB-82-570553)
 ✅ **Python: Beginner to Advanced For Data Professionals** (codebasics) | [Certificate](https://codebasics.io/certificate/CB-48-570553)
