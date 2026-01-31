@@ -19,9 +19,9 @@ Dynamic and results-driven **Lead Data Analyst** with extensive expertise in dev
 - Developed and maintained Python scripts for financial data validation
 - Automated financial data checks and comparisons
 - Collaborated with cross-functional teams on data-driven solutions
-- - Utilized **Pandas** and **Python** for efficient data manipulation and analysis using **DataFrames**
-- - Implemented **SQL** queries for database operations and data extraction from financial data sources
-- - Implemented robust error handling with **try-except blocks** and **JSON** data parsing for seamless exception management
+- Utilized **Pandas** and **Python** for efficient data manipulation and analysis using **DataFrames**
+- Implemented **SQL** queries for database operations and data extraction from financial data sources
+- Implemented robust error handling with **try-except blocks** and **JSON** data parsing for seamless exception management
 
 ### 📚 Previous Experience
 **Data Analyst** @ S&P CAPITAL IQ (INDIA) PRIVATE LIMITED  (2015-2022)
