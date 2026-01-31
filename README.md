@@ -27,8 +27,8 @@ Dynamic and results-driven **Lead Data Analyst** with extensive experience in fi
 - Securities exchange filings processing (10-K, 10-Q, 20-F, 8-K)
 
 ### 🏆 Certifications
-✅ **PCEP** - Certified Entry-Level Python Programmer (Python Institute)  
-✅ **PCAP** - Certified Associate in Python Programming (Python Institute)  
+✅ **PCEP** - Certified Entry-Level Python Programmer (Python Institute)   | [Verify](https://verify.openedg.org/?id=XxAz.FsXc.L0Xp)
+✅ **PCAP** - Certified Associate in Python Programming (Python Institute)   | [Verify](https://verify.openedg.org/?id=RsxH.uT9n.2tWu)
 ✅ **SQL Training** - Basic & Intermediate (SP Global)
 
 ### 💼 Featured Projects
