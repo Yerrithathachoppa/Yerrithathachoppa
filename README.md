@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yerrithathachoppa
 
-## A passionate Data Analyst from India.
+## A passionate Lead Data Analyst from India.
 
 **Profile views:** ![Profile views](https://komarev.com/ghpvc/?username=Yerrithathachoppa&color=blue)
 
