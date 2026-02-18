@@ -12,6 +12,7 @@ Dynamic and results-driven **Lead Data Analyst** with extensive expertise in dev
 - 📈 Knowledgeable in **Statistics** and **Math** for data science applications
 - Version Control: Git, GitHub
 - API Development: FastAPI (Custom API Development), Postman (API Testing)
+- Generative AI Tools: GitHub Copilot,Cursor,Windsurf
 - 🤝 Looking to collaborate on **Data Analysis** and **Business Intelligence** projects
 - 📧 How to reach me: **ychoppa123@gmail.com**
 - 📞 Phone: **+91-8099696443**
