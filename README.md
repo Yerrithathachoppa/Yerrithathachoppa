@@ -46,6 +46,7 @@ All of my projects are available in my repositories:
 - **[Expenses-Tracking-System](https://github.com/Yerrithathachoppa/Expenses-Tracking-System)** - Python-based expense tracking application
 - **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
 - **[Atliqo-Bank-Credit-Card-Launch](https://github.com/Yerrithathachoppa/Atliqo-Bank-Credit-Card-Launch)** - Credit card launch strategy analysis for Atliqo Bank using data analytics
+- **[prompt-engineering-library](https://github.com/Yerrithathachoppa/prompt-engineering-library)** - prompt-engineering-library
 
 ### 🔗 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithatha-choppa/)
