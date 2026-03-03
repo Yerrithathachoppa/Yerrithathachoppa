@@ -47,7 +47,7 @@ All of my projects are available in my repositories:
 - **[MCP SQL Server Tools](https://github.com/Yerrithathachoppa/MCP_Server_project)** - Model Context Protocol server for AI-assisted SQL Server database management with 8 DBA utilities
 - **[Atliqo-Bank-Credit-Card-Launch](https://github.com/Yerrithathachoppa/Atliqo-Bank-Credit-Card-Launch)** - Credit card launch strategy analysis for Atliqo Bank using data analytics
 - **[Prompt-Engineering-Library](https://github.com/Yerrithathachoppa/prompt-engineering-library)** - Prompt-Engineering-Library
-- **[Mobile_Price_Prediction_Using_Simple_linear_Regression](https://github.com/Yerrithathachoppa/prompt-engineering-library](https://github.com/Yerrithathachoppa/Mobile_Price_Prediction_Using_Simple_linear_Regression)** - Mobile_Price_Prediction_Using_Simple_linear_Regression
+- **[Mobile_Price_Prediction_Using_Simple_linear_Regression](https://github.com/Yerrithathachoppa/Mobile_Price_Prediction_Using_Simple_linear_Regression)** - Mobile_Price_Prediction_Using_Simple_linear_Regression
 
 ### 🔗 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yerrithatha-choppa/)
